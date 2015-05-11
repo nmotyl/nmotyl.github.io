@@ -4,7 +4,6 @@ title: "DynamicDB"
 excerpt: "Functional dynamic database with data driven schema."
 author: nate_motyl
 tags: [sql post, dynamicdb post]
-link: https://github.com/nmotyl/scripts/tree/master/DynamicDB
 comments: true
 ---
 
