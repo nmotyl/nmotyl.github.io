@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Nate Motyl's Personal Blog
 locale:           en_US
 url:              
 
@@ -29,10 +29,10 @@ owner:
   name: Nathan Motyl
   avatar: bio-photo.jpg
   bio: "Database/BI Enthusiast."
-  email: nmotyl@gmail.com
+  email: nmotyl
   disqus-shortname: 
   twitter: #username
-  facebook: nmotyl@gmail.com
+  facebook: nathan.motyl
   google:
     plus: #username
     analytics: 
