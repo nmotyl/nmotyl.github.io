@@ -8,8 +8,5 @@ link: https://github.com/nmotyl/scripts/tree/master/DynamicDB
 share: true
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+The [dynamic database](https://github.com/nmotyl/scripts/tree/master/DynamicDB) is a completely data driven schema. The goal of this database is to allow small to medium teams to rapidly model and store schemas in an enterprise database, which in turn, requires almost zero additional operation administration as team quantities increase.
 
-> And this is how a quote looks.
-
-Some [link](http://www.mademistakes.com) can also be shown.
