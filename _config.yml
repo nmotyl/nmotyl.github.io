@@ -25,14 +25,14 @@ kramdown:
 
 
 # Site owner
-owner:
-  name: Your Name
+owner: Nathan Motyl
+  name: Nathan Motyl
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Database/BI Enthusiast."
+  email: nmotyl@gmail.com
   disqus-shortname: 
   twitter: #username
-  facebook: #username
+  facebook: nmotyl@gmail.com
   google:
     plus: #username
     analytics: 
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: nmotyl@gmail.com
   xing: #username
   instagram: #username
   lastfm: #username
