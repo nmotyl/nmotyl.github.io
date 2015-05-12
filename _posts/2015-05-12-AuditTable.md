@@ -8,5 +8,5 @@ link: https://github.com/nmotyl/scripts/tree/master/AuditTable
 comments: true
 ---
 
-The [AuditTable scripts](https://github.com/nmotyl/scripts/tree/master/AuditTable) is a completely data driven schema. Complete usage instructions can be found in the [scripts repository wiki](https://github.com/nmotyl/scripts/wiki/Audit-Table), but you may feel free to email me should you have questions. Enjoy!
+The [AuditTable scripts](https://github.com/nmotyl/scripts/tree/master/AuditTable) provide a sample methodology for satisfying DML audit requirements. Complete usage instructions can be found in the [scripts repository wiki](https://github.com/nmotyl/scripts/wiki/Audit-Table), but you may feel free to email me should you have questions. Enjoy!
 
