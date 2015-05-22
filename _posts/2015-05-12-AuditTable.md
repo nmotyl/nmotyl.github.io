@@ -3,7 +3,7 @@ layout: post
 title: "AuditTable"
 excerpt: "Sample code outlining a simple and effective method for auditing DML operations in a database."
 author: nate_motyl
-tags: [sql post, audittable post, auditi]
+tags: [sql post, audittable post, audit]
 link: https://github.com/nmotyl/scripts/tree/master/AuditTable
 comments: true
 ---
